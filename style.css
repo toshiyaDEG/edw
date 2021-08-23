@@ -1,0 +1,12 @@
+.wall {
+    width:1902px;
+    height:1400px;
+    background-image: url('https://i.imgur.com/RqkicQZ.png');
+    background-size: cover;
+}
+/*primer foto*/
+.roid1{margin: 50px auto; width: 350px; height: 390px; background: #f1f1f1; text-align: center; box-shadow: 3px 3px 5px #888; transform: rotate(-12deg); font-family: 'Cedarville Cursive', cursive; font-size: 17px; color: #2e2e2e}.roid1 img{width: 310px, height: 310px; padding: 20px 0 0}.roid1 {margin-top: 0px;}.stcred2{margin: 0 auto; width: 400px; text-align: right; transform: rotate(-12deg); margin-top: -50px}.stcred2 a{text-decoration: none; font-family: calibri; font-size: 9px; color: #888; text-transform: uppercase; letter-spacing: 3px}
+/*segunda ronda*/
+.roid2{margin: 20px auto; width: 1000px; display: flex; flex-wrap: wrap; justify-content: space-around}.roid3{width: 230px; height: 270px; background: #f1f1f1; text-align: center; box-shadow: 0 8px 6px -6px #888; font-family: 'Cedarville Cursive', cursive; font-size: 15px; color: #2e2e2e; line-height: 110%; margin: 10px 0}.roid3 img{width: 200px, height: 200px; padding: 15px 0}.stcred{margin: 0 auto; width: 400px; text-align: center}.stcred a{text-decoration: none; font-family: calibri; font-size: 9px; color: #888; text-transform: uppercase; letter-spacing: 3px;}
+/*tercera ronda*/
+.roid4{margin: 20px auto; width:1500px; display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center; font-family: 'Cedarville Cursive', cursive; font-size: 12px; color: #2e2e2e; line-height: 110%}.roid4 img{width: 200px, height: 200px; padding: 15px 0}.roid5{width: 230px; height: 270px; background: #f1f1f1; box-shadow: 3px 3px 8px #888; transform: rotate(-12deg)}.roid6{width: 230px; height: 270px; background: #f1f1f1; box-shadow: 3px 3px 5px #888; transform: rotate(10deg); margin-left: -40px}.roid7{width: 230px; height: 270px; background: #f1f1f1; box-shadow: 0 8px 6px -6px #888; transform: rotate(10deg); margin: -100px 0 0 45px}.roid8{width: 230px; height: 270px; background: #f1f1f1; box-shadow: 0 8px 6px -6px #888; transform: rotate(-25deg); margin: -20px 0 0 65px}.roid9{width: 230px; height: 270px; background: #f1f1f1; box-shadow: 3px 3px 8px #888; transform: rotate(0deg)}.stcred{margin: 0 auto; width: 400px; text-align: center}.stcred a{text-decoration: none; font-family: calibri; font-size: 9px; color: #888; text-transform: uppercase; letter-spacing: 3px}
